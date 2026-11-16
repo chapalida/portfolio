@@ -57,6 +57,8 @@
 .subnav:hover .subnav-content {
   display: block;
 }
+.view {display:none}
+.view.active {display:block}
 
 section {
     min-height: 400px;
