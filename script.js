@@ -19,3 +19,5 @@ fetch('content.json')
     });
   })
   .catch(error => console.error('Error loading JSON:', error));
+
+  // source: https://dev.to/john_phillips/working-with-json-data-in-an-html-environment-3opg
