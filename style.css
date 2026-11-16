@@ -58,6 +58,12 @@
   display: block;
 }
 
+section {
+    min-height: 400px;
+    padding: 80px 0px;
+    display: hidden;
+    unicode-bidi: isolate;
+}
 
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
