@@ -14,6 +14,13 @@
           { "title": "Budget & expense tools", "text": "Code and spreadsheets to track my grocery budget and split restaurant bills and shared costs." },
           { "title": "UX & UI design", "text": "I’m interested in the design side of IT. I’ve been teaching myself through Figma tutorials and experimenting with animation to improve the look and feel of websites." }
         ]
+      },
+      {
+        "label": "3D",
+        "layout": "stack",
+        "cards": [
+          { "title": "UX & UI design", "text": "I’m interested in the design side of IT. I’ve been teaching myself through Figma tutorials and experimenting with animation to improve the look and feel of websites." }
+        ]
       }
     ]
   },
@@ -21,12 +28,19 @@
     "intro": "I’m keen to learn new techniques and software introduced by influencers and studios, mostly through social media, and I often experiment with new features by building websites in my own time. I also use my own code and spreadsheets to track my grocery budget and to split costs when eating out or sharing with friends. These are all self-directed projects, taken on independently outside my university studies.",
     "dropdown":[
       {
-        "label": "Programming & Database",
+        "label": "Employment & Interns",
         "layout": "stack",
         "cards": [
-          { "title": "Websites as gifts", "text": "Custom websites made for friends, combining creativity with code." },
-          { "title": "Budget & expense tools", "text": "Code and spreadsheets to track my grocery budget and split restaurant bills and shared costs." },
-          { "title": "UX & UI design", "text": "I’m interested in the design side of IT. I’ve been teaching myself through Figma tutorials and experimenting with animation to improve the look and feel of websites." }
+          { "title": "Part-time", "text": "Custom websites made for friends, combining creativity with code." }
+        ]
+      },
+      {
+        "label": "Volunteers",
+        "layout": "stack",
+        "cards": [
+          { "title": "MSA", "text": "Custom websites made for friends, combining creativity with code." },
+          { "title": "MSA", "text": "Custom websites made for friends, combining creativity with code." },
+          { "title": "MSA", "text": "Custom websites made for friends, combining creativity with code." }
         ]
       }
     ]

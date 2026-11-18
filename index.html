@@ -8,23 +8,19 @@
 </head>
 <body>
     <div class="navbar">
-        <a href="#home">Home</a>
+        <a href="#home" data-view="home">Home</a>
         <div class="subnav">
-            <button class="subnavbtn">Projects
-                <i class="fa fa-caret-down"></i>
-            </button>
+            <button class="subnavbtn">Projects</button>
             <div class="subnav-content">
-                <a href="#project">Programming & Database</a>
-                <a href="#project">3D</a>
+                <a href="#project" data-view="project">Programming &amp; Database</a>
+                <a href="#project" data-view="project">3D</a>
             </div>
         </div>
         <div class="subnav">
-            <button class="subnavbtn">Experiences
-                <i class="fa fa-caret-down"></i>
-            </button>
+            <button class="subnavbtn">Experiences</button>
             <div class="subnav-content">
-                <a href="#experience">Volunteers</a>
-                <a href="#experience">Employment & Interns</a>
+                <a href="#experience" data-view="experience">Employment &amp; Interns</a>
+                <a href="#experience" data-view="experience">Volunteers</a>
             </div>
         </div>
     </div>
@@ -38,7 +34,7 @@
 
     <section class="view" id="project">
         <div class="content">
-            <h2>Programming & Database</h2>
+            <h2>Projects</h2>
             <div id="project-intro"></div>
             <div id="project-dropdown"></div>
         </div>
@@ -46,10 +42,11 @@
 
     <section class="view" id="experience">
         <div class="content">
-            <h2>Employment & Interns</h2>
+            <h2>Experiences</h2>
             <div id="experience-intro"></div>
             <div id="experience-dropdown"></div>
         </div>
     </section>
     
 </body>
+</html>
