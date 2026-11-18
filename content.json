@@ -1,7 +1,34 @@
 {
-    "name": "Chacha",
-    "home":[
-      "I am Chacha, a second-year Computer Science student majoring in Data Science at Monash University in Melbourne, Australia. I will be graduating in late November next year, as I am taking a 3-year undergraduate program.",
-      "I enjoy making small projects in my free time. One of them is creating websites for my friends as gifts, which lets me combine my creativity with technology. I also enjoy finding ways to apply coding and IT to everyday life, such as analysing my personal budget and calculating how to split expenses with others."
+  "home":[
+    "I am Chacha, a second-year Computer Science student majoring in Data Science at Monash University in Melbourne, Australia. I will be graduating in late November next year, as I am taking a 3-year undergraduate program.",
+    "I enjoy making small projects in my free time. One of them is creating websites for my friends as gifts, which lets me combine my creativity with technology. I also enjoy finding ways to apply coding and IT to everyday life, such as analysing my personal budget and calculating how to split expenses with others."
+  ],
+  "project": {
+    "intro": "I’m keen to learn new techniques and software introduced by influencers and studios, mostly through social media, and I often experiment with new features by building websites in my own time. I also use my own code and spreadsheets to track my grocery budget and to split costs when eating out or sharing with friends. These are all self-directed projects, taken on independently outside my university studies.",
+    "dropdown":[
+      {
+        "label": "Programming & Database",
+        "layout": "stack",
+        "cards": [
+          { "title": "Websites as gifts", "text": "Custom websites made for friends, combining creativity with code." },
+          { "title": "Budget & expense tools", "text": "Code and spreadsheets to track my grocery budget and split restaurant bills and shared costs." },
+          { "title": "UX & UI design", "text": "I’m interested in the design side of IT. I’ve been teaching myself through Figma tutorials and experimenting with animation to improve the look and feel of websites." }
+        ]
+      }
     ]
+  },
+  "experience": {
+    "intro": "I’m keen to learn new techniques and software introduced by influencers and studios, mostly through social media, and I often experiment with new features by building websites in my own time. I also use my own code and spreadsheets to track my grocery budget and to split costs when eating out or sharing with friends. These are all self-directed projects, taken on independently outside my university studies.",
+    "dropdown":[
+      {
+        "label": "Programming & Database",
+        "layout": "stack",
+        "cards": [
+          { "title": "Websites as gifts", "text": "Custom websites made for friends, combining creativity with code." },
+          { "title": "Budget & expense tools", "text": "Code and spreadsheets to track my grocery budget and split restaurant bills and shared costs." },
+          { "title": "UX & UI design", "text": "I’m interested in the design side of IT. I’ve been teaching myself through Figma tutorials and experimenting with animation to improve the look and feel of websites." }
+        ]
+      }
+    ]
+  }
 }
